@@ -14,3 +14,5 @@ September 30: Working on our progect
 Reflection 1:  
 Reflection 2:  
 Reflection 3:  
+
+<img width="1042" height="1629" alt="Clipped_image_20261003_093533" src="https://github.com/user-attachments/assets/83ac739c-f15a-4610-9507-2bbc2f680dfc" />
