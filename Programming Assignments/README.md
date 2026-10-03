@@ -15,5 +15,5 @@ September 16: Moisture Sensor Files
 [CSV Files](https://github.com/din230/FYRE-Assignments/tree/53b4015a12622957eb8c427b014384399d0477f1/CSV%20Files%20for%20Sep.%2016) - CSV files from program7
 
 September 23: Working on our projects - check: [Final Project Files](https://github.com/din230/FYRE-Assignments/tree/d00b9971040e6b7e962bd1a336e5ca7d2d947f75/Programming%20Assignments/Final%20Project%20Files)  
-September 28: Working on our projects - check: [Final Project Files](https://github.com/din230/FYRE-Assignments/tree/d00b9971040e6b7e962bd1a336e5ca7d2d947f75/Programming%20Assignments/Final%20Project%20Files)
+September 28: Working on our projects - check: [Final Project Files](https://github.com/din230/FYRE-Assignments/tree/d00b9971040e6b7e962bd1a336e5ca7d2d947f75/Programming%20Assignments/Final%20Project%20Files)  
 September 30: Working on our projects - check: [Final Project Files](https://github.com/din230/FYRE-Assignments/tree/d00b9971040e6b7e962bd1a336e5ca7d2d947f75/Programming%20Assignments/Final%20Project%20Files)
