@@ -6,7 +6,7 @@ Repo for my assignments from the "Sensing the World" module of ENGR 095 at Lehig
 ## [Programming Activities](https://github.com/din230/FYRE-Assignments/tree/0bab64afb7cdc2609a5c35b34fdd62b1e338b13f/Programming%20Assignments)
 Includes all code and files for every programming activity of the "Sensing the World" module  
 
-## [Reflections](https://github.com/din230/FYRE-Assignments/blob/89010a777b652e14bb773654bc705e97fdd5a766/Reflections/README.md)
+## [Reflections](https://github.com/din230/FYRE-Assignments/tree/47ada1ec4767502093665796022b2ac60a55e6eb/Reflections)
 Includes all three reflections for the "Sensing the World" module
 
 <br clear="all">
