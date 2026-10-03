@@ -1,7 +1,7 @@
 # FYRE-Assignments
 Repo for my assignments from the "Sensing the World" module of ENGR 095 at Lehigh University Fall 2026
 
-[Programming Activities](./programming-activities/)  
+##[Programming Activities](https://github.com/din230/FYRE-Assignments/tree/900001a28c8105aa5d401fd7c47b97d64e9fe9fa/Programming%20Assignments)  
 September 9: Basic print out and blinking  
 September 14: Making an 'alarm' system circuit  
 September 16: Using and implementing a moisture sensor  
