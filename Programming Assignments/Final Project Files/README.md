@@ -1,5 +1,5 @@
 # Final Project Files  
-All code files for the final group project are in this folder  
+Folder for all of the final project codes for the "Sensing the World" module of ENGR 095 at Lehigh University Fall 2026  
 
 ### September 23:
 [demo.py](demo.py) - tests the individual electronic components of our prototype  
