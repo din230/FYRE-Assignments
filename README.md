@@ -13,8 +13,6 @@ September 28: Working on our project
 September 30: Working on our project
 
 ## [Reflections](https://github.com/din230/FYRE-Assignments/tree/638119588234cd4237b5d5ef32da2947a94ccceb/Reflections)
-Reflection 1:  
-Reflection 2:  
-Reflection 3:  
+Includes all three reflections for the "Sensing the World" module
 
 <br clear="all">
