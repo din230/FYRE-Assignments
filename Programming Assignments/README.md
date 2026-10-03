@@ -1,12 +1,12 @@
 # Programming Assignments
 
-September 9:  
+September 9: Basic print out and blinking  
 [program.py](program.py) - prints "hello world"  
 [program2.py](program2.py) - prints name  
 [program3.py](program3.py) - prints name with a string variable  
 [program4.py](program4.py) - blinking program  
 
-September 14:  
+September 14: Making an 'alarm' system circuit  
 [alarm.py](alarm.py) - worked on code with 2 other members to make a 'alarm' circuit LED system
 
 September 16: Moisture Sensor Files  
