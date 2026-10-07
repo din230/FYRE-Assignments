@@ -14,3 +14,6 @@ Folder for all of the final project codes for the "Sensing the World" module of 
 
 ### September 30
 [automatic_floodgate_final.py](automatic_floodgate_final.py) - our final code, completed and tested
+
+### October 7
+[Final Presentation](https://github.com/din230/FYRE-Assignments/blob/3117401f8a10ec57e2ec8a2b90409cf7af12e958/Programming%20Assignments/Final%20Project%20Files/FYRE%20Project%20Presentation.pdf) - our final presentation slides
