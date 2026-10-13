@@ -7,5 +7,5 @@ Reflection 1 - first part of the module focused on materials engineering with cr
 ### [Reflection 2](https://github.com/din230/FYRE-Assignments/blob/a3867b22354c54734a1edf88ca77ff960a277f68/Reflections/Sensing%20the%20World%20-%20Microcontrollers%20Reflection%202.pdf)
 Reflection 2 - second part of the module that focused on computer engineering with microcontrollers
 
-### Reflection 3
+### [Reflection 3](https://github.com/din230/FYRE-Assignments/blob/54cf80f3ddb265daaffe79656cd0d9c92a45da72/Reflections/Sensing%20the%20World%20-%20Project%20Reflection%203.pdf)
 Reflection 3 - last and final part of the "Sensing the World" module where we created our own projects
